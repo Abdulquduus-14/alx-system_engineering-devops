@@ -24,3 +24,6 @@ Other users: all the permissions
 
 Task 9: script that sets the mode of the file hello to this:
 -rwxr-x-wx 
+
+Task 10: a script that sets the mode of the file hello the same as olleh’s mode.
+
