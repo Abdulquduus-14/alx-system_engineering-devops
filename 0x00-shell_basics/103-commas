@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -aF | echo ","| sort \n
