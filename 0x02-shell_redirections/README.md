@@ -6,3 +6,4 @@ Task 3: show two files
 Task 4: display last 10 lines
 Task 5: show first 10 lines
 Task 6: show the third line of iact
+Task 11: Write a script that counts the number of directories and sub-directories in the current directory.
