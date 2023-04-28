@@ -4,7 +4,7 @@ i="0"
 while [ $i -eq 10 ]
 do
 	echo "Best School"
-	if [ "$i" -lt 10 ]
+	if [ "$i" -lt 9 ]
 	then echo "Hi"
 	fi
 
