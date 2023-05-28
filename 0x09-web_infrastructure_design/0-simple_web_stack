@@ -1,0 +1,17 @@
+SOLUTION TO TASKK 0 THEORIES
+
+My link: https://imgur.com/a/CYDdVzt:wq
+
+A server is a piece of computer hardware or software (computer program) that provides functionality for other programs or devices, called "clients". This architecture is called the client–server model. Servers can provide various functionalities, often called "services", such as sharing data or resources among multiple clients or performing computations for a client. A single server can serve multiple clients, and a single client can use multiple servers. 
+
+App server: Hosts web apps (computer programs that run inside a web browser) allowing users in the network to run and use them, without having to install a copy on their own computers.
+
+Database: this is an organized collections of data with predefined properties that may be displayed in a table over a network.
+
+Web server: this is responsible for hosting web pages. A web server is what makes the World Wide Web possible. Each website has one or more web servers. Also, each server can host multiple websites.
+
+The server communicates with the client computer using the internet. This is due to remote location of the server as both aren't within the same vicinity.
+
+The type of DNS record for www.foobar.com is A record DNS
+
+A single point of failure (SPOF) is essentially a flaw in the design, configuration, or implementation of a system, circuit, or component that poses a potential risk because it could lead to a situation in which just one malfunction or fault causes the whole system to stop working. Depending 
